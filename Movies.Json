@@ -1,0 +1,39 @@
+{
+    "Movies": [
+        {
+            "MovieID": 1, 
+            "Title": "Willy Wonka",
+            "Genre": "Musical",
+            "Length": "1:56",
+            "Rating": "70%"
+        },
+        {
+            "MovieID": 2, 
+            "Title": "Kung Fu Panda",
+            "Genre": "Animation",
+            "Length": "1:32",
+            "Rating": "75%"
+        },
+        {
+            "MovieID": 3,
+            "Title": "Harry Potter and the Prison Of Askaban",
+            "Genre": "Adventure",
+            "Length": "2:22",
+            "Rating": "79%"
+        },
+        {
+            "MovieID": 4, 
+            "Title": "Pirates Of the Caribbean and the Curse of the Black Pearl",
+            "Genre": "Action",
+            "Length": "2:23",
+            "Rating": "81%"
+        },
+        {
+            "MovieID": 5, 
+            "Title": "Night At the Museum",
+            "Genre": "Comedy",
+            "Length": "1:48",
+            "Rating": "65%"
+        }
+    ]
+}
